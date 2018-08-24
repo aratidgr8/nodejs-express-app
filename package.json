@@ -1,0 +1,25 @@
+{
+  "name": "apidemo",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node express-app/server.js"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "~1.17.1",
+    "cookie-parser": "~1.4.3",
+    "cors": "^2.8.4",
+    "debug": "~2.6.3",
+    "ejs": "~2.5.6",
+    "express": "^4.15.5",
+    "express-real-ip": "^1.0.0",
+    "hbs": "^4.0.1",
+    "morgan": "~1.8.1",
+    "mysql": "^2.14.1",
+    "public-ip": "^2.4.0",
+    "request": "^2.87.0",
+    "serve-favicon": "~2.4.2",
+    "yargs": "^12.0.1"
+  }
+}
