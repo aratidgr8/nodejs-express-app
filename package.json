@@ -1,6 +1,6 @@
 {
-  "name": "apidemo",
-  "version": "0.0.0",
+  "name": "node-express-app",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "start": "node server.js"
